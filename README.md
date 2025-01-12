@@ -21,4 +21,5 @@ Edit `resume_analyzer.py` and add your OpenAI API key to the `api_key` field ins
 5. **Add your resume (in PDF format) to the resume folder**
 
 6. **Run the script**:
-python resume_analyzer.py
+   ```bash
+   python resume_analyzer.py
